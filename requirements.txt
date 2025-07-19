@@ -8,3 +8,6 @@ torch
 PyPDF2
 pillow
 lxml
+pdf2image
+pytesseract
+tqdm
