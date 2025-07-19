@@ -5,5 +5,6 @@ sentence-transformers
 scikit-learn
 transformers
 torch
+PyPDF2
 pillow
 lxml
