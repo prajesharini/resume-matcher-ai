@@ -1,0 +1,9 @@
+gradio
+pdfminer.six
+python-docx
+sentence-transformers
+scikit-learn
+transformers
+torch
+pillow
+lxml
